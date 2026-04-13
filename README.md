@@ -1,3 +1,5 @@
+<img width="1874" height="921" alt="Screenshot 2026-04-14 033311" src="https://github.com/user-attachments/assets/6f48881a-e76d-438b-bc1d-c84a3b5e8cad" />
+
 ## 🚀 Live Dashboard
 
 🔗 I am currently working on the live dashboard :), will put the live dashboard as soon as possible
