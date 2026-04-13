@@ -1,0 +1,12 @@
+name: startupfunding_2015
+title: startupfunding_2015
+username: chingnunganbayumnam
+account: chingnunganbayumnam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17124459
+bundleId: 11846112
+url: https://chingnunganbayumnam.shinyapps.io/startupfunding_2015/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
