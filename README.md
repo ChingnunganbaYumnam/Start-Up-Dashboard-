@@ -8,17 +8,19 @@ The objective is to identify how venture capital allocation has shifted across s
 
 Fintech (rapid growth)
 E-commerce (stagnation)
+
 🎯 Objectives
 Examine trends in startup funding across sectors over time
 Identify high-growth sectors and stagnating sectors
 Explain funding patterns using economic reasoning and policy context
 Understand investor behavior in emerging markets like India
+
 📁 Dataset
 Sector-wise startup funding data (2015–2021)
 Variables include:
 Sector (Fintech, E-commerce, etc.)
 Funding amount (USD)
-Year
+
 
 Data Sources:
 Kaggle
