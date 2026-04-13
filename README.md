@@ -51,6 +51,7 @@ Despite early dominance, growth plateaued due to:
 Market maturity
 High competition
 Low profit margins
+
 ⚠️ Data Disclaimer & Attribution
 
 This project uses a publicly available dataset sourced from Kaggle.
