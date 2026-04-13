@@ -24,22 +24,27 @@ Funding amount (USD)
 
 Data Sources:
 Kaggle
+
 🛠️ Tools & Technologies
 R Programming
 Basic data cleaning and aggregation techniques
 Data visualization and dashboarding
+
 📊 Dashboard Features
 Sector-wise funding comparison (2015 vs 2021)
 Trend visualization across years
 Identification of top-funded sectors
 Comparative analysis between fintech and e-commerce
+
 📈 Key Findings
+
 1. Fintech Funding Surge
 Fintech funding increased significantly, reaching $4.41 billion by 2021
 Growth driven by:
 Financial inclusion expansion
 Digital payment infrastructure (UPI)
 Increased investor confidence in scalable financial models
+
 2. E-commerce Funding Stagnation
 E-commerce funding remained relatively stable across the period
 Despite early dominance, growth plateaued due to:
