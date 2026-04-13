@@ -1,6 +1,6 @@
 ## 🚀 Live Dashboard
 
-🔗 [Click here to view the interactive dashboard](<https://chingnunganbayumnam.shinyapps.io/start_up_dashboard_for_the_year_2015/>)
+🔗 I am currently working on the live dashboard :), will put the live dashboard as soon as possible
 # Start-Up-Dashboard-
 📊 Startup Funding Analysis in India (2015–2021)
 🔍 Overview
