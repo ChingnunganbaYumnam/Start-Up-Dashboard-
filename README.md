@@ -1,3 +1,4 @@
+<img width="1880" height="869" alt="Screenshot 2026-04-14 033052" src="https://github.com/user-attachments/assets/780475b9-d927-4106-bde2-aefc4e265664" />
 <img width="1874" height="921" alt="Screenshot 2026-04-14 033311" src="https://github.com/user-attachments/assets/6f48881a-e76d-438b-bc1d-c84a3b5e8cad" />
 
 ## 🚀 Live Dashboard
